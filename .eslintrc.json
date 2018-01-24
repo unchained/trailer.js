@@ -1,0 +1,29 @@
+{
+  "extends": "airbnb-base",
+  "env": {
+    "browser": true,
+    "es6": true,
+    "jquery": true
+  },
+  "rules": {
+    "indent": [2, 2, {"SwitchCase": 1, "VariableDeclarator": 1}],
+    "one-var": "off",
+    "max-len": "off",
+    "no-underscore-dangle": "off",
+    "global-require":"off",
+    "import/no-extraneous-dependencies": "off",
+    "class-methods-use-this": "off",
+    "object-curly-spacing": 0,
+    "no-else-return": "off",
+    "no-shadow": "off",
+    "no-restricted-syntax": [
+      "error",
+      "ForInStatement",
+      "LabeledStatement",
+      "WithStatement"
+    ],
+    "no-param-reassign": "off",
+    "import/no-dynamic-require": "off",
+    "no-new-require": "off"
+  }
+}

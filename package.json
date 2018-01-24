@@ -1,0 +1,35 @@
+{
+  "name": "trailer.js",
+  "version": "1.0.0",
+  "description": "Hide your header on scroll",
+  "main": "dist/trailer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/unchained/trailer.js.git"
+  },
+  "keywords": [
+    "Headroom",
+    "header",
+    "hide",
+    "scroll",
+    "sticky",
+    "trailer"
+  ],
+  "author": "UNCHAINED.studio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/unchained/trailer.js/issues"
+  },
+  "homepage": "https://github.com/unchained/trailer.js#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-plugin-rename-assigned-properties": "^1.0.0",
+    "babel-plugin-transform-es2015-modules-umd": "^6.24.1",
+    "babel-preset-env": "^1.6.1",
+    "gulp": "github:gulpjs/gulp#4.0",
+    "gulp-babel": "^7.0.0"
+  }
+}

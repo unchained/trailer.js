@@ -3,7 +3,7 @@
 Similar to Headroom.js, Trailer hides your header as you scroll down and gradually reveals it as you scroll up,
 giving your users more screen space for the content they want, while keeping the navigation at hand. 
 
-![Trailer.js demo](https://i.imgur.com/xHRXmsp.gifv)
+![Trailer.js demo](https://i.imgur.com/xHRXmsp.gif)
 
 ## Getting Started
 
